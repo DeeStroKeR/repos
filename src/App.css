@@ -1,0 +1,299 @@
+:root {
+  font-size: 14px;
+  /*margin:0px;*/
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+a:hover {
+  color: rgb(0, 245, 12);
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+div {
+  font-size: 14px;
+}
+
+div .extra.center.aligned.content {
+  border-top-color: #d4d4d5 !important;
+}
+div .own-container {
+  margin-left: 19.3vw;
+  width: 59vw;
+  font-size: 14px;
+}
+div .own-container.create {
+  width: 45vw;
+}
+.ui.black.fluid.button:hover {
+  background-color: rgb(72, 159, 181) !important;
+  color: white !important;
+}
+.ui.black.fluid.button {
+  transition-duration: 0.4s !important;
+}
+
+.ui.header {
+  color: #1c1c1cde !important;
+}
+.header {
+  color: #1c1c1cde !important;
+}
+.link.header {
+  color: #2185d0 !important;
+}
+.ui.button {
+  background-color: rgb(72, 159, 181) !important;
+  color: white !important;
+}
+.ui.basic.fluid.button.basicButton {
+  box-shadow: 0px 0px 0px 1px #489fb5 !important;
+  background-color: #fff !important;
+  color: #489fb5 !important;
+  transition-duration: 0.4s !important;
+}
+.ui.basic.fluid.button.basicButton:hover {
+  background-color: rgb(72, 159, 181) !important;
+  color: white !important;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.clone-url-icon {
+  position: absolute;
+  right: 10px;
+  top: 20px;
+  cursor: pointer;
+}
+
+.ui.basic.button.logout {
+  color: white !important;
+}
+
+.ui.basic.button.logout:hover {
+  background-color: #56a7bb !important;
+  color: white !important;
+}
+#a-frgt {
+  text-align: center;
+  color: #489fb5;
+  margin-bottom: 10px;
+  font-size: 10px;
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+
+#lgn-btn {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 10px;
+}
+
+#lbl-frgt {
+  font-size: 10px;
+}
+
+a.ui.positive.button {
+  margin: 0;
+}
+
+#crt-pulls-btn {
+  margin-top: 7px;
+  margin-left: 45vw;
+}
+#pull-grid {
+  margin-left: 0px;
+}
+#lbl-from {
+  margin-bottom: 20px;
+  margin-right: 8.8vw;
+}
+
+#label-branch {
+  margin-top: 5px;
+}
+#pullRequestbreadcrumb {
+  margin-bottom: 10px;
+}
+
+#btnmerge {
+  margin-left: 40vw;
+}
+
+#mergeCommitlbl {
+  margin-right: -4vw;
+  /*margin-bottom: 10px;*/
+  /*margin-left: 0.5vw;*/
+  background-color: #489fb5;
+  color: #fff;
+}
+#mergeCommitlblcard {
+  /*margin-top: 20px;*/
+  margin-right: -5.5vw;
+  background-color: #489fb5;
+  color: #fff;
+}
+
+#branchlist-newbranch-btn{
+  margin-left: 37.7vw;
+}
+#add-file-icon {
+  color: #489fb5;
+}
+
+#modified-file-icon {
+  color: #edce34;
+}
+
+#delete-file-icon {
+  color: #f08080;
+}
+
+#crt-pulls-btn-card {
+  margin-right: -40vw;
+}
+
+#destination-Branch-input {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.branch_unit {
+  display: flex;
+  justify-content: space-between;
+}
+/*.del_button {*/
+/*  background: #da9796;*/
+/*  padding: 0.8em;*/
+/*  color: #ffffff;*/
+/*  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;*/
+/*  line-height: 1.4em;*/
+/*  font-weight: bold;*/
+/*  border: none;*/
+/*  border-radius: 8px;*/
+/*}*/
+
+/*.del_button:hover {*/
+/*  background: #bd081c;*/
+/*}*/
+
+/*.del_button:active {*/
+/*  background: #0e8c8c;*/
+/*}*/
+.content {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.ui.page.modals.dimmer.transition.visible.active {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#deleteMsg {
+  margin: 3vh;
+}
+
+.ui.compact.button.del_button[name="main"] {
+  display: none;
+}
+
+.ui.active.transition.visible.inverted.dimmer {
+  background-color: transparent;
+}
+
+#newBranchButton {
+  display:flex;
+  justify-content:flex-end;
+}
+
+.branch_buttons {
+  display: flex;
+  justify-content: space-between;
+  min-width: 57px;
+  width: 80px;
+
+}
+
+.branch_buttons_unit_diff:active {
+  background:transparent;
+}
+
+.select_form_grid {
+    margin: 0px;
+    column-gap: 25px;
+    display: grid;
+    max-width: 300vh;
+    min-width: 150vh;
+    grid-template: 50px 1fr / 1fr 1fr 1fr;
+}
+
+.compare_branch {
+  grid-area: 1 / 2 / 2 / 4;
+}
+
+#source_branch_data{
+  padding-top: 1rem;
+}
+
+#target_branch_data{
+  padding-top: 1rem;
+}
+
+#source_branch_dropdown{
+  margin: 0px;
+  width: 100%;
+}
+
+#target_branch_dropdown{
+  margin: 0px;
+  width: 100%;
+}
+.diff_result{
+  margin-top: 40px;
+  max-width: 66%;
+  min-width: 40%;
+}
+
+.diff_result{
+  grid-area: 3 / 1 / 3 / 4;
+}
+
+.branch_buttons_unit_del_default {
+  display: none;
+}
+
+
+.branch_unit_default{
+  display: flex;
+  justify-content: space-between;
+}
+

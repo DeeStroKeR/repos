@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="124"
+   height="30"
+   viewBox="0 0 124 30"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="Cloud-Git-logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">
+      @font-face {
+        font-family: Wavehouse;
+        src: url(/Wavehaus-128Bold.otf) format(&quot;opentype&quot;);
+      }
+    </style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.3790323"
+     inkscape:cx="54.235728"
+     inkscape:cy="-20.438306"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2062" />
+  <g
+     id="Сгруппировать_620"
+     data-name="Сгруппировать 620"
+     transform="translate(-36 -25)"
+     style="fill:#000000">
+    <g
+       aria-label="CL    UD GIT"
+       id="CL_UD_GIT"
+       style="font-size:22px;font-family:Wavehouse">
+      <g
+         id="g2062"
+         transform="translate(3.345705)">
+        <path
+           id="iconfinder_134229_cloud_guardar_save_store_up_icon"
+           d="m 74.982,42.710053 a 1.159,1.159 0 0 0 -0.923,-0.409 1.227,1.227 0 0 0 -0.933,0.419 l -2.523,2.508 a 1.191,1.191 0 0 0 -0.37,0.874 1.286,1.286 0 0 0 1.276,1.267 1.213,1.213 0 0 0 0.88,-0.368 l 0.4,-0.393 v 4.564 a 1.276,1.276 0 0 0 2.551,0 v -4.562 l 0.4,0.393 a 1.213,1.213 0 0 0 0.88,0.368 1.286,1.286 0 0 0 1.276,-1.267 1.191,1.191 0 0 0 -0.37,-0.874 z m 6.7,-4.813 a 6.383,6.383 0 0 0 -12.6,-0.659 c -0.042,0 -0.084,-0.006 -0.127,-0.006 a 5.0695,5.0695 0 1 0 0,10.139 h 0.355 a 2.492,2.492 0 0 1 -0.355,-1.268 2.422,2.422 0 0 1 0.358,-1.267 h -0.358 a 2.5371232,2.5371232 0 0 1 -0.05,-5.074 l 2.25,0.072 0.43,-2.094 a 3.83,3.83 0 0 1 7.558,0.4 l 0.124,1.311 1.152,0.653 a 2.529,2.529 0 0 1 -1.257,4.737 h -0.358 a 2.426,2.426 0 0 1 0.358,1.267 2.492,2.492 0 0 1 -0.355,1.267 h 0.355 a 5.061,5.061 0 0 0 2.52,-9.473 z"
+           fill="#fff"
+           style="fill:#ffffff" />
+        <path
+           d="m 46.35343,47.557 c 2.816,0 4.906,-1.276 6.116,-3.234 l -2.552,-1.606 c -0.748,1.32 -2.09,2.2 -3.564,2.2 -2.574,0 -4.246,-2.046 -4.246,-4.906 0,-2.882 1.672,-4.928 4.246,-4.928 1.452,0 2.794,0.88 3.564,2.222 l 2.552,-1.628 c -1.21,-1.958 -3.3,-3.234 -6.116,-3.234 -4.576,0 -7.304,3.388 -7.304,7.568 0,4.158 2.728,7.546 7.304,7.546 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1774" />
+        <path
+           d="M 57.3314,44.565 V 32.619 h -2.816 v 14.762 h 8.822 v -2.816 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1776" />
+        <path
+           d="m 91.299361,47.48 c 3.322,0 6.006,-2.2 6.006,-5.896 V 32.52 h -2.816 v 9.064 c 0,1.98 -1.32,3.256 -3.19,3.256 -1.848,0 -3.19,-1.276 -3.19,-3.256 V 32.52 h -2.816 v 9.064 c 0,3.696 2.706,5.896 6.006,5.896 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1778" />
+        <path
+           d="m 99.527305,47.381 h 3.938005 c 4.774,0 7.59,-3.3 7.59,-7.37 0,-4.092 -2.816,-7.392 -7.59,-7.392 h -3.938005 z m 2.816005,-2.64 v -9.482 h 1.122 c 2.772,0 4.532,1.98 4.532,4.752 0,2.75 -1.76,4.73 -4.532,4.73 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1780" />
+        <path
+           d="m 125.04727,47.557 c 1.87,0 3.388,-0.66 4.466,-1.716 v 1.54 h 2.42 v -8.14 h -6.886 v 2.442 h 3.916 c -0.528,1.87 -2.046,3.234 -3.916,3.234 -2.596,0 -4.246,-2.046 -4.246,-4.906 0,-2.882 1.65,-4.928 4.246,-4.928 1.43,0 2.772,0.88 3.52,2.222 l 2.574,-1.628 c -1.21,-1.958 -3.3,-3.234 -6.094,-3.234 -4.598,0 -7.326,3.388 -7.326,7.568 0,4.158 2.728,7.546 7.326,7.546 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1782" />
+        <path
+           d="m 134.22122,47.381 h 2.816 V 32.619 h -2.816 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1784" />
+        <path
+           d="m 150.25916,32.619 h -11.418 v 2.816 h 4.29 v 11.946 h 2.816 V 35.435 h 4.312 z"
+           style="font-weight:bold;font-family:Wavehaus;-inkscape-font-specification:'Wavehaus Bold';fill:#ffffff"
+           id="path1786" />
+      </g>
+    </g>
+  </g>
+</svg>
